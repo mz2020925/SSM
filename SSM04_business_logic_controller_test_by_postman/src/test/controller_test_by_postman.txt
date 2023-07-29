@@ -1,0 +1,2 @@
+就像SpringMVC中学习的PostMan测试一样，运行代码（开启服务器），在postman中提交请求来测试Controller中的代码（这实际上就是表现层测试），
+前面的SSM04_business_logic_controller_test_by_junit.java是业务层测试。
